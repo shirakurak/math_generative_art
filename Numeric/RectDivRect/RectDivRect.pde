@@ -1,5 +1,5 @@
 int numA = 10;
-int numB = 6;
+int numB = 7;
 float ratio = (float) numB / numA;
 
 void setup() {

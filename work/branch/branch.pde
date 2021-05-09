@@ -3,7 +3,17 @@ Branch _trunkRight1, _trunkRight2;
 
 void setup() {
   size(700, 700);
-  background(255);
+  
+  noStroke();
+  color c1 = color(255, 255, 255);
+  color c2 = color(200, 200, 200);
+  for(float h = 0; h < height; h += 5){
+      color c = lerpColor(c1, c2, h / height);
+      fill(c);
+      rect(0, h, width, 5);
+  }
+  
+  stroke(0);
   newTree();
   
   save("branch.png");
@@ -16,10 +26,10 @@ void newTree() {
   _trunkLeft2 = new Branch(1, 0, 0, height/4, 3, 3, true);
   _trunkLeft2.drawMe();
   
-  _trunkRight1 = new Branch(1, 0, width, 2*height/3, 3, 3, false);
+  _trunkRight1 = new Branch(1, 0, width, 1*height/2, 3, 3, false);
   _trunkRight1.drawMe();
   
-  _trunkRight2 = new Branch(1, 0, width, 2*height/3, 3, 3, false);
+  _trunkRight2 = new Branch(1, 0, width, 1*height/2, 3, 3, false);
   _trunkRight2.drawMe();
 }
 

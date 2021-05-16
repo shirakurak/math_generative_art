@@ -28,6 +28,6 @@ void draw() {
   drawTable(mtxP, columnA, columnA, colorYoko, colorTate);
   
   strokeWeight(3);
-  lint(0, scalar * columnA, width, scalar * columnA);
+  line(0, scalar * columnA, width, scalar * columnA);
   line(scalar * columnA, 0, scalar * columnA, height);
 }

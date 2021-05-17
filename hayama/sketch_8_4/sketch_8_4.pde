@@ -8,6 +8,11 @@ int[][] mtxP = new int[rowA][rowA];
 
 float scalar;
 
+color colorTate = color(255, 255, 0);
+color colorYoko = color(255, 0, 0);
+color BLACK = color(0, 0, 0);
+color WHITE = color(255, 255, 255);
+
 void setup() {
   size(500, 500);
   

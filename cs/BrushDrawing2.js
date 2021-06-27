@@ -1,0 +1,3 @@
+var img;
+
+var balls = [];

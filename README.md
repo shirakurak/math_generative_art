@@ -1,5 +1,10 @@
 ## math_generative_art
 
+
+### monthly_sketch
+1か月を通した成果物を作成する予定。
+
+
 参考
 - 『数学から創るジェネラティブアート ―Processingで学ぶかたちのデザイン』
   - 巴山竜来 著

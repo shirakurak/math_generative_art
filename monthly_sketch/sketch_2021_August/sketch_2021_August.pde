@@ -24,6 +24,8 @@ void drawSakura(int ox, int oy, int or) {
   
   
   for (int theta = 0; theta < 360; theta++) {
+    
+    float A = petalNum / PI * radians(theta);
   
     
   

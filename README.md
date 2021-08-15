@@ -1,11 +1,18 @@
-## math_generative_art
+# math_generative_art
 
+本リポジトリには、Processingやp5.jsを用いた適当な成果物が置かれています。
+- 参考書籍の内容を写したり、真似したもの
+- 自分でなんとなく作ってみたもの
+
+### リンク
+
+- [OpenProcessing](https://openprocessing.org/user/270673/?view=activity)
+- [shirART](https://scrapbox.io/shirART/)
 
 ### monthly_sketch
-1か月を通した成果物を作成する予定。
 
+### 参考書籍
 
-参考
 - 『数学から創るジェネラティブアート ―Processingで学ぶかたちのデザイン』
   - 巴山竜来 著
 - 『ジェネラティブ・アート ―Processignによる実践ガイド』

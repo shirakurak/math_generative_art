@@ -15,7 +15,7 @@ void draw() {
 
 void drawSakura(int ox, int oy, int or) {
 
-  int petalNum = 5;
+  int petalNum = 4;
   
   pushMatrix();
   
@@ -25,7 +25,7 @@ void drawSakura(int ox, int oy, int or) {
   beginShape();
   
   
-  for (int theta = 0; theta < 360; theta++) {
+  for (int theta = 0; theta < 360/4; theta++) {
     
     float A = petalNum / PI * radians(theta);
     int md = floor(A) % 2;

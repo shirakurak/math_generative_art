@@ -8,8 +8,7 @@
 
 - [OpenProcessing](https://openprocessing.org/user/270673/?view=activity)
 - [shirART](https://scrapbox.io/shirART/)
-
-### monthly_sketch
+  - この辺は移行予定？
 
 ### 参考書籍
 

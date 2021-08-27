@@ -1,0 +1,1 @@
+![gradation_cicle](https://github.com/shirakurak/math_generative_art/blob/main/work/zz_img/gradation_cicle.png)

@@ -13,6 +13,8 @@
 オリジナルの作品。
 
 
+### 模倣→解説→創造のサイクル
+
 ---
 This repository contains deliverables related to generative art.
 Mainly, Processing and p5.js are used.

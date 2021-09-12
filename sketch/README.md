@@ -9,3 +9,8 @@
 `cos`と`Array`を用いたグラデーション。
 
 ### sketch_210828a_createImage
+
+### sketch_210912a_3D
+
+# メモ
+画像保存時：`save("sketch_210912a_3D.png");`

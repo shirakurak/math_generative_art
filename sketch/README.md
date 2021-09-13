@@ -11,6 +11,17 @@
 ### sketch_210828a_createImage
 
 ### sketch_210912a_3D
+`lights()`により陰影がつく状態で、`box`により立方体を、`sphere`により球体を描画する。
+
+### sketch_210914a_StoringInput
 
 # メモ
-画像保存時：`save("sketch_210912a_3D.png");`
+画像保存時
+- `save("sketch_210912a_3D.png");`
+- ```
+  void keyPressed() {
+    if(keyCode == ENTER) {
+      save("sketch_210914a_StoringInput.png");
+    }
+  }
+  ```

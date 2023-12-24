@@ -1,7 +1,11 @@
-# 参考書籍
+# books
+
+In each directory, you will find reading notes and code related to the following books:
 
 - hayama
   - 『数学から創るジェネラティブアート ―Processingで学ぶかたちのデザイン』（巴山竜来）
+- MRTG
+  - 『リアルタイムグラフィックスの数学 GLSLではじめるシェーダプログラミング』（巴山竜来）
 - peason
   - 『ジェネラティブ・アート ―Processignによる実践ガイド』（マット・ピアソン）
 - tadokoro
